@@ -39,16 +39,19 @@
   ![image](https://github.com/user-attachments/assets/a197c4a0-6bbe-4257-a977-903cfc05e164)
   
   ### Kişiyi database'ye kayıt ederken:
-    1- ![image](https://github.com/user-attachments/assets/9d1c1941-4806-45dc-a904-e0f061109440)
-    2- ![image](https://github.com/user-attachments/assets/0167197f-edf2-4aab-8f12-fb9d91284035)
+  1- ![image](https://github.com/user-attachments/assets/9d1c1941-4806-45dc-a904-e0f061109440)
+    
+  2- ![image](https://github.com/user-attachments/assets/0167197f-edf2-4aab-8f12-fb9d91284035)
     
   ### Kayıt ettiken sonra giriş yapıyoruz:
-    1- ![image](https://github.com/user-attachments/assets/887c8bf4-7a9f-4100-b5a4-4fa9b60bbdaf)
-    2- ![image](https://github.com/user-attachments/assets/c43e8366-05d4-4cc3-9833-37908cc3edc0)
+  1- ![image](https://github.com/user-attachments/assets/887c8bf4-7a9f-4100-b5a4-4fa9b60bbdaf)
+  
+  2- ![image](https://github.com/user-attachments/assets/c43e8366-05d4-4cc3-9833-37908cc3edc0)
 
   ### Farklı bir duygu durumu için tekrar giriş yapıyoruz:
-    1- ![image](https://github.com/user-attachments/assets/360a34fc-e642-416a-9e9b-e0df49477c43)
-    2- ![image](https://github.com/user-attachments/assets/632f8078-0daf-47a8-aee2-ca220864b454)
+  1- ![image](https://github.com/user-attachments/assets/360a34fc-e642-416a-9e9b-e0df49477c43)
+  
+  2- ![image](https://github.com/user-attachments/assets/632f8078-0daf-47a8-aee2-ca220864b454)
 
   ### Bu da girişler sonrasındaki log.txt metin dosyası:
   ![image](https://github.com/user-attachments/assets/cd17b9aa-f1ec-4050-ab02-3fbf2142d3f8)
