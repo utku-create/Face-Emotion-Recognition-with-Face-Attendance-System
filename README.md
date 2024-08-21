@@ -1,33 +1,33 @@
 # Face Emotion Recognition with Face Attendance System
 
 ## İşleyiş:
-  1- main.py dosyasını çalıştırdığımızda klasörümüze "db" isimli bir klasör oluşturacak. Eğer kayıt etmeden Giriş yapmak isterseniz database'de olmayacağınız için kayıt olmanızı isteyecek.
-  2- Kayıt için sizin o anlık net çekilmiş bir fotoğrafınızı alacak ve isminizi girmenizi isteyecek. Face Recognition motorunun çalışma prensibi nedeniyle .jpg uzantılı fotoğrafınıza adınızı kaydedecek ve daha
+  1. main.py dosyasını çalıştırdığımızda klasörümüze "db" isimli bir klasör oluşturacak. Eğer kayıt etmeden Giriş yapmak isterseniz database'de olmayacağınız için kayıt olmanızı isteyecek.
+  2. Kayıt için sizin o anlık net çekilmiş bir fotoğrafınızı alacak ve isminizi girmenizi isteyecek. Face Recognition motorunun çalışma prensibi nedeniyle .jpg uzantılı fotoğrafınıza adınızı kaydedecek ve daha
   sonrasında sizi bu isimle tanıyacak.
-  3- İsminizi girip kayıt olduktan sonra Giriş yaptığınızda sizi tanıyacak ve girişinize onay verecek.
-  4- Girişten sonra sizin girişte verdiğiniz yüz duygu durumunun analizini yaparak ekrana bunu dönderecek. 
-  5- Eğer girişte fotoğraf çekilirken yüzünüz görünmez, yüzünüzün önüne bir engel koyarsanız sizi tanıyamayacak ve uyarı döndürecektir bu yüzden yüzünüz gözükmelidir. 
-  6- Tüm bu girişler "log.txt" metin dosyasına "İSİM, DUYGU DURUMU, O ANKİ TARİH VE SAAT" formatında kaydedilmekte ve tutulmaktadır. bknz: "utku, happy, 2024-08-21 15:23:22.539722" gibi.
+  3. İsminizi girip kayıt olduktan sonra Giriş yaptığınızda sizi tanıyacak ve girişinize onay verecek.
+  4. Girişten sonra sizin girişte verdiğiniz yüz duygu durumunun analizini yaparak ekrana bunu dönderecek. 
+  5. Eğer girişte fotoğraf çekilirken yüzünüz görünmez, yüzünüzün önüne bir engel koyarsanız sizi tanıyamayacak ve uyarı döndürecektir bu yüzden yüzünüz gözükmelidir. 
+  6. Tüm bu girişler "log.txt" metin dosyasına "İSİM, DUYGU DURUMU, O ANKİ TARİH VE SAAT" formatında kaydedilmekte ve tutulmaktadır. bknz: "utku, happy, 2024-08-21 15:23:22.539722" gibi.
  
 ## Açıklama:
-  - Projede bir "main.py" dosyası -bu çalışan kodun bulunduğu python dosyası-, bir "util.py" dosyası -GUI için yapılan temel tasarımların bulunduğu python dosyası- bulunmaktadır.
-  - "requirements.txt" ve "requirements_windows.txt" dosyalarını bilgisayarınıza kurmalısınız.
+  1. Projede bir "main.py" dosyası -bu çalışan kodun bulunduğu python dosyası-, bir "util.py" dosyası -GUI için yapılan temel tasarımların bulunduğu python dosyası- bulunmaktadır.
+  2. "requirements.txt" ve "requirements_windows.txt" dosyalarını bilgisayarınıza kurmalısınız.
 
 ## Kullanılan Python Versiyonu ve Kütüphaneler:
-  -Python 3.8 
-  -datetime
-  -PIL
-  -util
-  -cv2
-  -matplotlib
-  -deepface(tensorflow, keras...)
-  -tkinter
-  -cmake
-  -dlib
-  -face_recognition
-  -scikit_learn
-  -retina_face
-  -numpy
+  * Python 3.8 
+  * datetime
+  * PIL
+  * util
+  * cv2
+  * matplotlib
+  * deepface(tensorflow, keras...)
+  * tkinter
+  * cmake
+  * dlib
+  * face_recognition
+  * scikit_learn
+  * retina_face
+  * numpy
    ...
 
    ## Uygulamadan Görüntüler:
