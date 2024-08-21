@@ -54,12 +54,14 @@ Kullanılan Python Versiyonu ve Kütüphaneler:
   ![image](https://github.com/user-attachments/assets/cd17b9aa-f1ec-4050-ab02-3fbf2142d3f8)
 
 
+
 Kullandığım kaynaklar:
-https://github.com/computervisioneng/face-attendance-system?tab=readme-ov-file
-https://medium.com/@hakkitoklu/python-ile-yüz-tanıma-uygulaması-8dc4e4bd8fcf
-https://docs.opencv.org/4.3.0/
-https://keras.io/
-https://numpy.org/doc/1.18/
-https://www.tensorflow.org/api_docs/python/
+
+- https://github.com/computervisioneng/face-attendance-system?tab=readme-ov-file
+- https://medium.com/@hakkitoklu/python-ile-yüz-tanıma-uygulaması-8dc4e4bd8fcf
+- https://docs.opencv.org/4.3.0/
+- https://keras.io/
+- https://numpy.org/doc/1.18/
+- https://www.tensorflow.org/api_docs/python/
 
 
